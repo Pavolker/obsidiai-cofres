@@ -1,0 +1,8 @@
+XEK/u5cM7oQ6LunHeZjAFwqs9R2cy3WrccRTekYng+YbZrQM9H
+kYBcFLO/S+w8E1W7ta4T55XeoaR6rs9i6WtTYtt1rVVyY1Tlbu
+cs1VvWDCxUM0/a2QZqD9mNkjVZQQWACZeMCBDFQYKRfePsAS6R
+
+## Relacionadas
+
+- [[872. 215. - 1087]]
+- [[AÇUCAR]]

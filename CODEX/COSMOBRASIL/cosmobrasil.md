@@ -1,0 +1,18 @@
+# COSMOBRASIL
+
+- [[alimento]]
+- [[cnae-html]]
+- [[cnae]]
+- [[construcao-2026]]
+- [[cosmobrasil]]
+- [[dashboard-cenario-empresarial]]
+- [[demanda-e-oferta]]
+- [[empresaaqui-cenario-empresarial]]
+- [[leite-municipios]]
+- [[pagina-cosmobrasil]]
+- [[pesquisa-produtos]]
+- [[plataforma-economia-circular]]
+- [[questionario-circularidade-2026]]
+- [[relevancia-incerteza]]
+- [[setor-alimentos]]
+- [[solucao-tecnologica]]

@@ -1,0 +1,36 @@
+# Exportações brutas e arquivos pesados
+DATAGPT/
+
+# Arquivos binários e mídia
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.mp4
+*.mp3
+*.pdf
+*.pptx
+*.docx
+*.xlsx
+*.zip
+*.tar
+*.gz
+
+# Obsidian internos (não necessários no repo)
+**/.obsidian/workspace
+**/.obsidian/workspace.json
+**/.obsidian/cache
+**/.trash/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/

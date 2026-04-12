@@ -1,0 +1,56 @@
+# 10_Ciencia_Tecnologia
+
+## Notas do grupo
+
+- [[- A briga que não te contam por trás da extinção humana pela IA]]
+- [[5 tendências de Business Intelligence em 2019 - CIO]]
+- [[50-cognitive-biases-2]]
+- [[Adobe Document Cloud]]
+- [[Are you looking for a fresh start in 2019 Maybe you’d like to get…]]
+- [[Ácaros vivem e acasalam em nossos rostos. Devemos nos preocupar. Veja…]]
+- [[bh ˜]]
+- [[CATOLICA DE MILAO]]
+- [[CHATBOT ECONOMIA FORESIGHT]]
+- [[CHUVA SOLIDA]]
+- [[Converter texto em número no Excel]]
+- [[Código da promoção 1-8GSAQE0]]
+- [[CRLV Digital]]
+- [[CUSTOS IA]]
+- [[Duas empresas, Vanguard e BlackRock, controlam o Planeta, enquanto…]]
+- [[EMPRESA DE TRANSPORTEBRASÍLIADF]]
+- [[ENCONTRO DAF RIO]]
+- [[Enterrar filhos]]
+- [[Ética de Condutor-IA (httpsitunesu.itunes.apple.comenrollCMD…]]
+- [[Go]]
+- [[Hebert Monteiro disse]]
+- [[httpsapp.powerbi.comviewr=eyJrIjoiNDZiYTYyNGQtYzliYS00NTMyLTk1Y2EtOWZmZjE4OTgwY2VkIiwidCI6ImMzO…]]
+- [[httpsimages.app.goo.gld1rCHTTER2cHe2jP9]]
+- [[IA descobre sua ideologia pela foto e a consequência é perturbadora…]]
+- [[IA]]
+- [[Leo, sobre o uso dessa palavra, temos que voltar na história e nos…]]
+- [[Mandiocas]]
+- [[METAFÍSICA SEC. XXI]]
+- [[Nt  sobre sabia]]
+- [[ORGANIZAÇÃO DE DADOS]]
+- [[Pensei em censurá-los por um bom minuto haha (a foto deve ser removida…]]
+- [[Pesquisa dados]]
+- [[PLANO DE TRABALHO IDEAAH]]
+- [[Prezado Sr. (a),]]
+- [[RECIBOS IMPOSTO DE RENDA]]
+- [[Regazzi]]
+- [[Repositório Institucional da ENAP Guia brasileiro de análise de dados…]]
+- [[Sim, claro que era uma questão moral também, fundada na sociedade…]]
+- [[SISTEMA IDEAAH]]
+- [[Tornar - devir]]
+- [[UNIDO]]
+- [[Videos]]
+- [[“Nunca foi tão ruim.” Quem diz isso enquanto caminha pela rua Seis…]]
+
+## Navegação
+
+- Voltar para [[Mapa do cofre]]
+
+## Citações Amazon
+
+- [[2025-11-10 - Sete breves lições de física - 01|2025-11-10 - Sete breves lições de física - 01]]
+- [[2025-11-10 - Sete breves lições de física - 02|2025-11-10 - Sete breves lições de física - 02]]

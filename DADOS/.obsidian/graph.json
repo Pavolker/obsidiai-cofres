@@ -1,0 +1,170 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:01_Reunioes  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:04_Musica  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431428
+      }
+    },
+    {
+      "query": "path:03_Artigos_Recortes  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:08_Financas_Documentos  ",
+      "color": {
+        "a": 1,
+        "rgb": 14724178
+      }
+    },
+    {
+      "query": "path:06_Fotos  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:00_Inbox  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:02_Trabalho_Conhecimento  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:05_Livros_Leituras  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:07_Contatos  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:08_Financas_Documentos  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:09_Saude_Corpo  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:10_Ciencia_Tecnologia  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:11_Filosofia_Psicologia path:11_Filosofia_Psicologia  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:12_Pessoas_Biografias  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:13_Negocios_Marcas  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:14_Objetos_Casa  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:15_Natureza_MeioAmbiente  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:16_Anexos  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395121
+      }
+    },
+    {
+      "query": "path:17_Outros  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395026
+      }
+    },
+    {
+      "query": "path:99_Indice  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395026
+      }
+    },
+    {
+      "query": "path:\"CENTAURO CORP\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16450564
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.57340277777778,
+  "lineSizeMultiplier": 1.68569444444444,
+  "collapse-forces": false,
+  "centerStrength": 0.487847222222222,
+  "repelStrength": 13.1180555555556,
+  "linkStrength": 0.629166666666667,
+  "linkDistance": 489,
+  "scale": 0.08267187471982293,
+  "close": true
+}

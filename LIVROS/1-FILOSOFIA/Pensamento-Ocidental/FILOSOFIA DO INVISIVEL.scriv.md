@@ -1,0 +1,2 @@
+[[ARQUETIPO DO MAL.scriv]]
+[[FILOSOFIA PIRUA.scriv]]

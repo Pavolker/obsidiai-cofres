@@ -1,0 +1,6 @@
+[[DIASPORA DA IA.scriv]]
+[[ÉTICA NAS CORPORAÇÕES.scriv]]
+[[MEDO.scriv]]
+[[ansiedade.scriv]]
+[[FREUD.scriv]]
+[[TEORIA ELEMENTAR DA PERSONALIDADE.scriv]]

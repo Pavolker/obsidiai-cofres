@@ -1,0 +1,9 @@
+![[MAC LINKS/061675E4-7FF8-4E40-90DA-E07EFE1C2ECB.jpeg]]
+
+
+![[MAC LINKS/051F54D9-E910-4DB6-82F2-6915C630E09C.jpeg]]
+
+## Relacionadas
+
+- [[Foto Salva 36]]
+- [[Foto Salva 38]]

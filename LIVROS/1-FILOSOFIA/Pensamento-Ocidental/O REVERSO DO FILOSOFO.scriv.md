@@ -1,0 +1,15 @@
+Resumo sintético: Olhar sobre a filosofia pelo avesso, destacando os bastidores humanos, contradições pessoais e impulsos existenciais dos pensadores.
+
+[[MANUAL AVANÇADO PARA MENTIROSOS.scriv]]
+[[OBITUÁRIO.scriv]]
+[[A CAVERNA DE PLATÃO.scriv]]
+[[AUTOCONHECIMENTO - PARTICULA MINIMA.scriv]]
+[[CONHECER A SI MESMO.scriv]]
+[[INTRODUCAO A METAFISICA DO FUTURO.scriv]]
+[[O QUE É POESIA.scriv]]
+[[SHAKESPEARE.scriv]]
+[[FILOSOFIA CHINESA.scriv]]
+[[FILOSOFIA CONTEMPORÂNEA CHINESA.scriv]]
+[[FILOSOFIA PIRUA.scriv]]
+[[FLAUTA MAGICA.scriv]]
+[[SINAPSES DOS VENTOS.scriv]]

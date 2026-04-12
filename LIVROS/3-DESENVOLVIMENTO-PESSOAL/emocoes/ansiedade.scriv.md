@@ -1,0 +1,6 @@
+[[A MENTIRA DAS FICÇÕES.scriv]]
+[[CARTAS CONHECIMENTO.scriv]]
+[[EMOCAO BASE.scriv]]
+[[MEDO.scriv]]
+[[FREUD.scriv]]
+[[TEORIA ELEMENTAR DA PERSONALIDADE.scriv]]

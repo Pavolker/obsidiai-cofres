@@ -1,0 +1,17 @@
+Resumo sintético: Exploração poética do que existia antes do ser, da fala, do amor e da morte, seguindo um movimento de retorno ao vazio primordial.
+
+[[AMORES ELEMENTARES def.scriv]]
+[[ARCO E FLECHA.scriv]]
+[[CASA SEGURA.scriv]]
+[[Casa Interior.scriv]]
+[[CONDOMINIO SOLAR.scriv]]
+[[FILOSOFIA PIRUA.scriv]]
+[[CUSTO DO AMANHA.scriv]]
+[[VIDA EM OUTRO PLANETA.scriv]]
+[[HELENA DE TROIA.scriv]]
+[[NADA.scriv]]
+[[GENEALOGIA.scriv]]
+[[OBITUÁRIO.scriv]]
+[[LIVRO DAS BULAS.scriv]]
+[[PEQUENO DICIONARIO DAS PALAVRAS INEXISTENTES.scriv]]
+[[ABELHA.scriv]]
