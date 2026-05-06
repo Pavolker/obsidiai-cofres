@@ -9,6 +9,7 @@
 - [[Gina Rippon ela desbancou a fake news de que o cérebro feminino é…]]
 - [[httpsproduto.mercadolivre.com.brMLB-1648388667-gravador-boss-br8…]]
 - [[httpswww.wimoveis.com.brpropriedadeslote-comercial-residencial…]]
+- [[MDH ANALISE ESTRATEGICA]]
 - [[PITH]]
 - [[Platão, Obras Completas.]]
 - [[SERGIO LUIS RENAULT BRAGA, brasileiro, divorciado, administrador de…]]
